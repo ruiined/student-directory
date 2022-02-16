@@ -1,6 +1,6 @@
 # student-directory
 
-This is a Ruby script that manages a directory of the "Villain's Academy" students.
+This is a Ruby script that manages a directory of the "Villains Academy" students.
 
 ##
 
